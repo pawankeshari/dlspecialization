@@ -1,7 +1,7 @@
 # dlspecialization
 Deep Learning Specialization
 
-This course has been completed on Coursera offerred by deeplearning.ai. In this specialization we have implemented different algorithms from the core in python.
+This course has been completed on Coursera offered by deeplearning.ai. In this specialization we have implemented different algorithms from the core in python.
 
 The codes have written in Jupyter notebook.
 
